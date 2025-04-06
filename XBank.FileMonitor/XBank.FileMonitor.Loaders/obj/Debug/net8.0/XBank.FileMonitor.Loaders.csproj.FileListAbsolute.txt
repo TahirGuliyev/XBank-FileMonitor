@@ -1,0 +1,15 @@
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\bin\Debug\net8.0\XBank.FileMonitor.Loaders.deps.json
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\bin\Debug\net8.0\XBank.FileMonitor.Loaders.dll
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\bin\Debug\net8.0\XBank.FileMonitor.Loaders.pdb
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\bin\Debug\net8.0\XBank.FileMonitor.Core.dll
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\bin\Debug\net8.0\XBank.FileMonitor.Core.pdb
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\XBank.FileMonitor.Loaders.csproj.AssemblyReference.cache
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\XBank.FileMonitor.Loaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\XBank.FileMonitor.Loaders.AssemblyInfoInputs.cache
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\XBank.FileMonitor.Loaders.AssemblyInfo.cs
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\XBank.FileMonitor.Loaders.csproj.CoreCompileInputs.cache
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\XBank.Fi.43312AA5.Up2Date
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\XBank.FileMonitor.Loaders.dll
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\refint\XBank.FileMonitor.Loaders.dll
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\XBank.FileMonitor.Loaders.pdb
+C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\obj\Debug\net8.0\ref\XBank.FileMonitor.Loaders.dll

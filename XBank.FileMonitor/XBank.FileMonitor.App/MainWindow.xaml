@@ -1,0 +1,46 @@
+﻿<Window x:Class="XBank.FileMonitor.App.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="XBank Trade Monitor" Height="550" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Info & Progress -->
+            <RowDefinition Height="*"/>
+            <!-- DataGrid -->
+            <RowDefinition Height="Auto"/>
+            <!-- Error messages -->
+        </Grid.RowDefinitions>
+
+        <!-- Info Bar -->
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+            <TextBlock Text="Status: " FontWeight="Bold"/>
+            <TextBlock x:Name="StatusTextBlock" Text="Ready" Margin="5,0,0,0"/>
+            <ProgressBar x:Name="LoadingProgressBar" Width="150" Height="10" 
+                         Margin="20,0,0,0" IsIndeterminate="True" Visibility="Collapsed"/>
+        </StackPanel>
+
+        <!-- Data Table -->
+        <DataGrid x:Name="TradeDataGrid"
+                  Grid.Row="1"
+                  AutoGenerateColumns="False"
+                  IsReadOnly="True"
+                  ItemsSource="{Binding TradeDataList}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Date" Binding="{Binding Date, StringFormat={}{0:dd.MM.yyyy}}" />
+                <DataGridTextColumn Header="Open" Binding="{Binding Open}" />
+                <DataGridTextColumn Header="High" Binding="{Binding High}" />
+                <DataGridTextColumn Header="Low" Binding="{Binding Low}" />
+                <DataGridTextColumn Header="Close" Binding="{Binding Close}" />
+                <DataGridTextColumn Header="Volume" Binding="{Binding Volume}" />
+                <DataGridTextColumn Header="Source File" Binding="{Binding SourceFile}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Error Messages -->
+        <StackPanel Grid.Row="2" Margin="0,10,0,0">
+            <TextBlock Text="Errors:" FontWeight="Bold"/>
+            <ListBox x:Name="ErrorListBox" Height="100"/>
+        </StackPanel>
+    </Grid>
+</Window>

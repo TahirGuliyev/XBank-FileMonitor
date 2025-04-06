@@ -1,0 +1,11 @@
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\bin\Debug\net8.0\XBank.FileMonitor.Core.deps.json
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\bin\Debug\net8.0\XBank.FileMonitor.Core.dll
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\bin\Debug\net8.0\XBank.FileMonitor.Core.pdb
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\obj\Debug\net8.0\XBank.FileMonitor.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\obj\Debug\net8.0\XBank.FileMonitor.Core.AssemblyInfoInputs.cache
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\obj\Debug\net8.0\XBank.FileMonitor.Core.AssemblyInfo.cs
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\obj\Debug\net8.0\XBank.FileMonitor.Core.csproj.CoreCompileInputs.cache
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\obj\Debug\net8.0\XBank.FileMonitor.Core.dll
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\obj\Debug\net8.0\refint\XBank.FileMonitor.Core.dll
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\obj\Debug\net8.0\XBank.FileMonitor.Core.pdb
+C:\XBank.FileMonitor\XBank.FileMonitor.Core\obj\Debug\net8.0\ref\XBank.FileMonitor.Core.dll

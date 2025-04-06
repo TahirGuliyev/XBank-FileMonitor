@@ -1,0 +1,106 @@
+2025-04-06 15:13:22.340 +04:00 [INF] Application started.
+2025-04-06 15:13:30.004 +04:00 [INF] Application exiting.
+2025-04-06 15:13:59.768 +04:00 [INF] Application started.
+2025-04-06 15:17:12.999 +04:00 [INF] Application exiting.
+2025-04-06 15:19:27.078 +04:00 [INF] Application started.
+2025-04-06 15:22:24.542 +04:00 [INF] Application started.
+2025-04-06 16:01:20.524 +04:00 [INF] Application started.
+2025-04-06 16:01:21.678 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:01:27.554 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:01:30.930 +04:00 [INF] Application exiting.
+2025-04-06 16:13:25.423 +04:00 [INF] Application started.
+2025-04-06 16:13:25.955 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:13:31.397 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:13:36.411 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:13:41.424 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:13:46.434 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:13:51.449 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:13:56.465 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:01.476 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:06.501 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:11.504 +04:00 [ERR] Failed to process file 'C:\InputFiles\test2.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:16.516 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:21.526 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:26.538 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:31.549 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:36.565 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:41.620 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:46.648 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:51.674 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:14:56.699 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:15:01.698 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:15:06.712 +04:00 [ERR] Failed to process file 'C:\InputFiles\test5.txt'
+System.FormatException: Line 2 has incorrect number of fields: <values>
+   at XBank.FileMonitor.Loaders.Loaders.TxtLoader.Load(Stream fileStream) in C:\XBank.FileMonitor\XBank.FileMonitor.Loaders\Loaders\TxtLoader.cs:line 43
+   at XBank.FileMonitor.App.Services.FileMonitorService.ProcessFile(String filePath) in C:\XBank.FileMonitor\XBank.FileMonitor.App\Services\FileMonitorService.cs:line 77
+2025-04-06 16:19:30.468 +04:00 [INF] Application started.
+2025-04-06 17:10:32.850 +04:00 [INF] Application started.
+2025-04-06 17:11:46.633 +04:00 [INF] Application exiting.
+2025-04-06 20:08:30.898 +04:00 [INF] Application started.
+2025-04-06 20:08:49.616 +04:00 [INF] Application exiting.

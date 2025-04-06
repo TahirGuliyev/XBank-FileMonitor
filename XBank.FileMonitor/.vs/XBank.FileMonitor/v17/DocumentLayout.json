@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\XBank.FileMonitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B10B2A0-7BF9-415C-A34C-5A159DFC20EC}|XBank.FileMonitor.Tests\\XBank.FileMonitor.Tests.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.tests\\loaders\\xmlloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B10B2A0-7BF9-415C-A34C-5A159DFC20EC}|XBank.FileMonitor.Tests\\XBank.FileMonitor.Tests.csproj|solutionrelative:xbank.filemonitor.tests\\loaders\\xmlloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B10B2A0-7BF9-415C-A34C-5A159DFC20EC}|XBank.FileMonitor.Tests\\XBank.FileMonitor.Tests.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.tests\\loaders\\txtloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B10B2A0-7BF9-415C-A34C-5A159DFC20EC}|XBank.FileMonitor.Tests\\XBank.FileMonitor.Tests.csproj|solutionrelative:xbank.filemonitor.tests\\loaders\\txtloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B10B2A0-7BF9-415C-A34C-5A159DFC20EC}|XBank.FileMonitor.Tests\\XBank.FileMonitor.Tests.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.tests\\loaders\\csvloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B10B2A0-7BF9-415C-A34C-5A159DFC20EC}|XBank.FileMonitor.Tests\\XBank.FileMonitor.Tests.csproj|solutionrelative:xbank.filemonitor.tests\\loaders\\csvloadertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|solutionrelative:xbank.filemonitor.app\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|solutionrelative:xbank.filemonitor.app\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.app\\services\\filemonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|solutionrelative:xbank.filemonitor.app\\services\\filemonitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7718CAF0-E8CF-4426-9C10-6B636C2D821A}|XBank.FileMonitor.Loaders\\XBank.FileMonitor.Loaders.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.loaders\\loaders\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7718CAF0-E8CF-4426-9C10-6B636C2D821A}|XBank.FileMonitor.Loaders\\XBank.FileMonitor.Loaders.csproj|solutionrelative:xbank.filemonitor.loaders\\loaders\\xmlloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7718CAF0-E8CF-4426-9C10-6B636C2D821A}|XBank.FileMonitor.Loaders\\XBank.FileMonitor.Loaders.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.loaders\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7718CAF0-E8CF-4426-9C10-6B636C2D821A}|XBank.FileMonitor.Loaders\\XBank.FileMonitor.Loaders.csproj|solutionrelative:xbank.filemonitor.loaders\\loaders\\csvloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7718CAF0-E8CF-4426-9C10-6B636C2D821A}|XBank.FileMonitor.Loaders\\XBank.FileMonitor.Loaders.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.loaders\\loaders\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7718CAF0-E8CF-4426-9C10-6B636C2D821A}|XBank.FileMonitor.Loaders\\XBank.FileMonitor.Loaders.csproj|solutionrelative:xbank.filemonitor.loaders\\loaders\\txtloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|solutionrelative:xbank.filemonitor.app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.app\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|solutionrelative:xbank.filemonitor.app\\services\\configurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|solutionrelative:xbank.filemonitor.app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|solutionrelative:xbank.filemonitor.app\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.app\\viewmodels\\tradedataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|solutionrelative:xbank.filemonitor.app\\viewmodels\\tradedataviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786515A-EEF6-4563-B6B9-F2FFB26A3437}|XBank.FileMonitor.Core\\XBank.FileMonitor.Core.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.core\\config\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E786515A-EEF6-4563-B6B9-F2FFB26A3437}|XBank.FileMonitor.Core\\XBank.FileMonitor.Core.csproj|solutionrelative:xbank.filemonitor.core\\config\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.app\\services\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9C5BFA1-97F0-4B50-B1F8-FE2DF3FBA53F}|XBank.FileMonitor.App\\XBank.FileMonitor.App.csproj|solutionrelative:xbank.filemonitor.app\\services\\pluginloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786515A-EEF6-4563-B6B9-F2FFB26A3437}|XBank.FileMonitor.Core\\XBank.FileMonitor.Core.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.core\\interfaces\\iloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E786515A-EEF6-4563-B6B9-F2FFB26A3437}|XBank.FileMonitor.Core\\XBank.FileMonitor.Core.csproj|solutionrelative:xbank.filemonitor.core\\interfaces\\iloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E786515A-EEF6-4563-B6B9-F2FFB26A3437}|XBank.FileMonitor.Core\\XBank.FileMonitor.Core.csproj|c:\\xbank.filemonitor\\xbank.filemonitor.core\\models\\tradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E786515A-EEF6-4563-B6B9-F2FFB26A3437}|XBank.FileMonitor.Core\\XBank.FileMonitor.Core.csproj|solutionrelative:xbank.filemonitor.core\\models\\tradedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XmlLoaderTests.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Tests\\Loaders\\XmlLoaderTests.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.Tests\\Loaders\\XmlLoaderTests.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Tests\\Loaders\\XmlLoaderTests.cs",
+              "RelativeToolTip": "XBank.FileMonitor.Tests\\Loaders\\XmlLoaderTests.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:26:56.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TxtLoaderTests.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Tests\\Loaders\\TxtLoaderTests.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.Tests\\Loaders\\TxtLoaderTests.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Tests\\Loaders\\TxtLoaderTests.cs",
+              "RelativeToolTip": "XBank.FileMonitor.Tests\\Loaders\\TxtLoaderTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:26:22.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CsvLoaderTests.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Tests\\Loaders\\CsvLoaderTests.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.Tests\\Loaders\\CsvLoaderTests.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Tests\\Loaders\\CsvLoaderTests.cs",
+              "RelativeToolTip": "XBank.FileMonitor.Tests\\Loaders\\CsvLoaderTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T14:25:17.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Core\\Config\\Settings.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.Core\\Config\\Settings.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Core\\Config\\Settings.cs",
+              "RelativeToolTip": "XBank.FileMonitor.Core\\Config\\Settings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:17:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.App\\MainWindow.xaml",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\MainWindow.xaml",
+              "RelativeToolTip": "XBank.FileMonitor.App\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-06T09:38:53.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TxtLoader.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Loaders\\Loaders\\TxtLoader.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.Loaders\\Loaders\\TxtLoader.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Loaders\\Loaders\\TxtLoader.cs",
+              "RelativeToolTip": "XBank.FileMonitor.Loaders\\Loaders\\TxtLoader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwDUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:03:24.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.App\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\MainWindow.xaml.cs",
+              "RelativeToolTip": "XBank.FileMonitor.App\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:38:50.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileMonitorService.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\Services\\FileMonitorService.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.App\\Services\\FileMonitorService.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\Services\\FileMonitorService.cs",
+              "RelativeToolTip": "XBank.FileMonitor.App\\Services\\FileMonitorService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:19:48.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CsvLoader.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Loaders\\Loaders\\CsvLoader.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.Loaders\\Loaders\\CsvLoader.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Loaders\\Loaders\\CsvLoader.cs",
+              "RelativeToolTip": "XBank.FileMonitor.Loaders\\Loaders\\CsvLoader.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwDUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:00:35.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "XmlLoader.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Loaders\\Loaders\\XmlLoader.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.Loaders\\Loaders\\XmlLoader.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Loaders\\Loaders\\XmlLoader.cs",
+              "RelativeToolTip": "XBank.FileMonitor.Loaders\\Loaders\\XmlLoader.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwDAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:08:13.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigurationService.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\Services\\ConfigurationService.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.App\\Services\\ConfigurationService.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\Services\\ConfigurationService.cs",
+              "RelativeToolTip": "XBank.FileMonitor.App\\Services\\ConfigurationService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:18:00.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.App\\App.xaml.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\App.xaml.cs",
+              "RelativeToolTip": "XBank.FileMonitor.App\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T11:09:34.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\appsettings.json",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.App\\appsettings.json",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\appsettings.json",
+              "RelativeToolTip": "XBank.FileMonitor.App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-06T10:13:21.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PluginLoader.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\Services\\PluginLoader.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.App\\Services\\PluginLoader.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\Services\\PluginLoader.cs",
+              "RelativeToolTip": "XBank.FileMonitor.App\\Services\\PluginLoader.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:11:20.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TradeDataViewModel.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\ViewModels\\TradeDataViewModel.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.App\\ViewModels\\TradeDataViewModel.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\ViewModels\\TradeDataViewModel.cs",
+              "RelativeToolTip": "XBank.FileMonitor.App\\ViewModels\\TradeDataViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:24:19.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.App\\AssemblyInfo.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.App\\AssemblyInfo.cs",
+              "RelativeToolTip": "XBank.FileMonitor.App\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T10:34:21.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ILoader.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Core\\Interfaces\\ILoader.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.Core\\Interfaces\\ILoader.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Core\\Interfaces\\ILoader.cs",
+              "RelativeToolTip": "XBank.FileMonitor.Core\\Interfaces\\ILoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:59:20.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TradeData.cs",
+              "DocumentMoniker": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Core\\Models\\TradeData.cs",
+              "RelativeDocumentMoniker": "XBank.FileMonitor.Core\\Models\\TradeData.cs",
+              "ToolTip": "C:\\XBank.FileMonitor\\XBank.FileMonitor.Core\\Models\\TradeData.cs",
+              "RelativeToolTip": "XBank.FileMonitor.Core\\Models\\TradeData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T09:58:35.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
